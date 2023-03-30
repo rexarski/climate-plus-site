@@ -63,7 +63,7 @@ const config = {
                 items: [
                     {
                         type: 'doc',
-                        docId: 'intro',
+                        docId: 'toc',
                         position: 'left',
                         label: 'Documentation',
                     },
@@ -82,7 +82,7 @@ const config = {
                         items: [
                             {
                                 label: 'Docs',
-                                to: '/docs/intro',
+                                to: '/docs/toc',
                             },
                             {
                                 label: 'Project Repository',
