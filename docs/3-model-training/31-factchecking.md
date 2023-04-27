@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 3.1 Downstream task 1: factchecking
 
+![workflow](img/task1-workflow.png)
+
 One of the downstream tasks we focus on is factchecking climate-related claims. But instead of going through the details, we would like to briefly talk about why it is important.
 
 **Misinformation**, especially about climate change, is a serious problem, that can be spread quickly and directly impact public opinion and policy decisions. Furthermore, misinformation is difficult to combat, and verifiable on biased sources.
