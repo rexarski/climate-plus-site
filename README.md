@@ -17,5 +17,5 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
   - [x] 2.4 Fixing `climate_fever`
 - [x] 3. Model training
   - [x] 3.1 Downstream task 1: factchecking
-  - [ ] 3.2 Downstream task 2: TCFD disclosure classification
-- [ ] 4. Conclusion
+  - [x] 3.2 Downstream task 2: TCFD disclosure classification
+- [x] 4. Conclusion

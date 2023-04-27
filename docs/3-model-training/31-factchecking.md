@@ -8,7 +8,7 @@ One of the downstream tasks we focus on is factchecking climate-related claims. 
 
 **Misinformation**, especially about climate change, is a serious problem, that can be spread quickly and directly impact public opinion and policy decisions. Furthermore, misinformation is difficult to combat, and verifiable on biased sources.
 
-To distinguish our work from the prior work, we used BERT as the base model instead of DistilRoBERTa. We fine-tuned the model on the modified `climate_fever_fixed` dataset to perform the factchecking task. The model achieved 65% of validation accuracy.
+To distinguish our work from the prior work, we used BERT as the base model instead of DistilRoBERTa. We fine-tuned the model on the modified `climate_fever_fixed` dataset to perform the factchecking task. The model achieved <mark>65%</mark> of validation accuracy.
 
 A couple of possible explanations for this rather lower performance are:
 
